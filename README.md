@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 👯 Recently created an [AI project](https://github.com/PrathamGupta06/Forest-Fire-Detection-Using-Tensorflow) using tensorflow.
 - 👨‍💻 Python, Web Developer
 - 💻 Enthusiastic to learn new technologies and frameworks.
-- 📫 Email : prathamgupta006@gmail.com
+- 📫 Email : prathamgupta006@gmail.com  
+- Links : [Codechef](https://www.codechef.com/users/prathamgupta_6), [Linkedin](https://www.linkedin.com/in/pratham-gupta-50692a21b)

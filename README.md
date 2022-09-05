@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 💻 Enthusiastic to learn new technologies and frameworks.
 - 📫 Email : prathamgupta006@gmail.com  
 - Links : [Codechef](https://www.codechef.com/users/prathamgupta_6), [Linkedin](https://www.linkedin.com/in/pratham-gupta-50692a21b)
+
+![Profile views](https://gpvc.arturio.dev/prathamgupta06)
 <!-- - 👨‍🏫 Creating a [Python Course](https://www.youtube.com/watch?v=onDUZV80SLg&list=PLQLg0LH_bIIENmmR2YtrqV1ELTxU5GbiX) on YouTube  -->

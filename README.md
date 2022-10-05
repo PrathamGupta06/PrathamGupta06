@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 - 🧑‍🎓 Full time student
 - ☁️ Microsoft Certified Azure Fundamentals
-- 👯 Recently created an [AI project](https://github.com/PrathamGupta06/Forest-Fire-Detection-Using-Tensorflow) using tensorflow.
+- ⚒️ Currently working on [CBSE Results Analyzer](https://github.com/PrathamGupta06/cbse-results-analyzer)
 - 👨‍💻 Python, Web Developer
 - 💻 Enthusiastic to learn new technologies and frameworks.
 - 📫 Email : prathamgupta006@gmail.com  

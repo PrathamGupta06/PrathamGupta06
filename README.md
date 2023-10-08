@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 - 🧑‍🎓 Full time student
-- ☁️ Microsoft Certified Azure Fundamentals
+- ☁️ Microsoft Certified in Azure Fundamentals, Microsoft Office Specialist
 - ⚒️ Currently working on [CBSE Results Analyzer](https://github.com/PrathamGupta06/cbse-results-analyzer)
 - 👨‍💻 Python, Web Developer
 - 💻 Enthusiastic to learn new technologies and frameworks.

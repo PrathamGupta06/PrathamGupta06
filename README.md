@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 -->
 - 🧑‍🎓 Computer Science Undergrad
 - ☁️ Microsoft Certified in Azure Fundamentals, Microsoft Office Specialist
-<!-- - ⚒️ Currently working on [CBSE Results Analyzer](https://github.com/PrathamGupta06/cbse-results-analyzer) -->
 - 👨‍💻 Python, C++, Web Developer
 - 💻 Enthusiastic to learn new technologies and frameworks.
 - 📫 Email : prathamgupta006@gmail.com  
 - Links : [Codechef](https://www.codechef.com/users/prathamgupta_6), [Linkedin](https://www.linkedin.com/in/pratham-gupta-50692a21b)
 
+<!-- - ⚒️ Currently working on [CBSE Results Analyzer](https://github.com/PrathamGupta06/cbse-results-analyzer) -->
 <!-- - 👨‍🏫 Creating a [Python Course](https://www.youtube.com/watch?v=onDUZV80SLg&list=PLQLg0LH_bIIENmmR2YtrqV1ELTxU5GbiX) on YouTube  -->

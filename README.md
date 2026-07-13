@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ☁️ Microsoft Certified in Azure Fundamentals, Microsoft Office Specialist
 - 👨‍💻 Python, C++, Web Developer
 - 💻 Enthusiastic to learn new technologies and frameworks.
-- 📫 Email : prathamgupta006@gmail.com  
+- 📫 Email : prathamgupadev@gmail.com  
 - 🔗 Links : [Linkedin](https://www.linkedin.com/in/pratham-gupta-50692a21b)
 
 <!-- - ⚒️ Currently working on [CBSE Results Analyzer](https://github.com/PrathamGupta06/cbse-results-analyzer) -->
